@@ -98,16 +98,16 @@ textarea {
    Author's custom styles
    ========================================================================== */
     #wrapper {
-      width: 960px;
+      width: 500px;
       border: black thin;
       margin-left: auto;
       margin-right: auto;
       font-size: 18px;
       line-height: 30px;
-      font-family: SansSerif, "Helvetica Neue", Helvetica;
+      font-family: "Courier New", Courier, monospace;
     }
     #logo img {
-      height: 116px;
+      height: 50px;
 
     }
     #article_text {
@@ -121,7 +121,7 @@ textarea {
     #masthead {
       height: 78px;
       background-size: cover;
-      background: url(../img/background.jpg) no-repeat;
+      background: url(../img/tejabanner.png) no-repeat;
       background-position-y: center;
     }
     #main_menu menu {
